@@ -1,4 +1,4 @@
-dv8coin
-=======
+dv8coin (dv8)
+===========
 
-dv8coin an unreleased litecoin clone
+More information coming soon
