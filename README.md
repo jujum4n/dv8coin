@@ -3,6 +3,12 @@ dv8coin (dv8)
 ###Description
 Litecoin knock off, "dv8coin" is used for personal experiments concerning blockchain technology. Testnet up, source was taken from the foocoin repository credited to Shakezula on the public github.
 
+- Programming/Math/Design - Justin Chase
+- Economics/Math/Design/Website - Patrick Multauph
+- Quality Assurance - Cody Voinovich
+- Quality Assurance - Reid Brown
+
+
 ###Screenshot:
 ![alt text](http://i.imgur.com/hEmFLlV.png "dv8coin screenshot")
 
