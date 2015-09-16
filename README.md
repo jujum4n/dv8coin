@@ -5,7 +5,6 @@ Litecoin knock off, "dv8coin" is used for personal experiments concerning blockc
 
 - Programming/Math/Design - Justin Chase
 - Economics/Math/Design/Website - Patrick Multauph
-- Quality Assurance - Cody Voinovich
 - Quality Assurance - Reid Brown
 
 
